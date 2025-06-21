@@ -1,0 +1,29 @@
+[
+    {
+        "id": "CS 101",
+        "department": "CS",
+        "name": "Intro to Computer Science",
+        "instructor": "Dr. Newman",
+        "days": ["Mon", " Wed", " Fri"],
+        "time": "10:00-11:15",
+        "location": "Room 204"
+    },
+    {
+        "id": "Writing 101",
+        "department": "Writing",
+        "name": "Am I a Robot?",
+        "instructor": "Dr. Pineda",
+        "days": ["Tue", " Wed", " Thu"],
+        "time": "3:05-4:20",
+        "location": "Room 303"
+    },
+    {
+        "id": "Math 101",
+        "department": "Math",
+        "name": "Calculus",
+        "instructor": "Dr. Hachey",
+        "days": ["Mon", " Tue"],
+        "time": "1:25-2:40",
+        "location": "Room 102"
+    }
+]

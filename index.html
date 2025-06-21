@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div id = "searchContainer">
+        <input id = "searchKeyword" type="text" placeholder="Search...">
+        <select id = "searchDepartment">
+            <option value = "">All Departments</option>
+        </select>
+    </div>
+    <div id = "mainContent">
+        <div id = "selectedCoursesSidebar">
+            <h2>Selected Courses</h2>
+            <ul id = "selectedCoursesList"></ul>
+        </div>
+
+        <div id = "courseContainer"></div>
+    </div>
+
+    <p id = "noResultsMessage">No courses found.</p>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,1 +1,4 @@
-# class-scheduler
+- [ ]  Create `index.html`, `style.css`, `script.js`, and `courses.json`
+- [ ]  Add 5–10 sample course objects to `courses.json`
+- [ ]  In `script.js`, fetch the JSON file and log it to console
+- [ ]  Create a basic HTML container where courses will go

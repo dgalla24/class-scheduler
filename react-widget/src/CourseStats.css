@@ -1,0 +1,32 @@
+
+.course-stats {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  border: 2px solid #e0e0e0;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+  font-family: 'Arial', sans-serif;
+  color: #333;
+}
+
+.course-stats h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #222;
+}
+
+.course-stats p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
+
+.course-stats ul {
+  margin-top: 1rem;
+  padding-left: 1.5rem;
+}
+
+.course-stats li {
+  margin-bottom: 0.25rem;
+}
